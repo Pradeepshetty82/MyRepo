@@ -4,6 +4,10 @@ class greetings
    {
       return " Hello";
    }
+   public string greetpunjab()
+   {
+      return "sat sri akal"
+   }
    
 }
  
