@@ -8,6 +8,9 @@ class greetings
    {
       return "sat sri akal"
    }
-   
+      public string greetpunjab()
+   {
+      return "ram ram"
+   }
 }
  
