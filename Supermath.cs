@@ -4,4 +4,10 @@ publib class supermath
  {
     return i+j;
  }
+ 
+  public int product ( int i, int j)
+  {
+	  return i*j;
+  }
+  
 }
